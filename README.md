@@ -1,9 +1,11 @@
 # Program-Stack-Palindrome
 A simple palindrome program using stack.
 
-How To Use
-1. If the word entered is a palindrome: 
-https://lh3.googleusercontent.com/-HExT2aNiCQs/YLSwG_Fqz5I/AAAAAAAAjyA/ii2rwzerNM4W-k5ELFZ1KUG3Ts8YW2TRgCLcBGAsYHQ/image.png
+<b>HOW TO USE</b>
+1. If the word entered is a palindrome:
+
+![image](https://user-images.githubusercontent.com/66985030/151143655-c92c8ee9-c0ff-47e2-82e4-898fdd14bba2.png)
 
 2. If the word entered is not a palindrome
-https://lh3.googleusercontent.com/-NPpb_JHQp9A/YLSwV8QShhI/AAAAAAAAjyE/BnPqWW5SnYU6-fpPzpD9BDEUDzhKWrMVwCLcBGAsYHQ/image.png
+
+![image](https://user-images.githubusercontent.com/66985030/151143703-401ce930-0b5d-4ef8-b2ef-51faf36ef294.png)
